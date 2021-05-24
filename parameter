@@ -1,0 +1,6 @@
+Hdfsdir="Unilever_eComm_DataAnalytics"
+Inputfile="UniInputData.log"
+RunnableJarName="UNI-CUSTPART.jar"
+DriverClassName="com/mapred/custpart/UniPartition_Driver"
+mr_output_path="unilever_output_bao_path"
+timeStamp="_2018-12-07_21-41-07"
